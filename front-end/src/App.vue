@@ -8,6 +8,9 @@
       </nav>
     </header>
     <router-view />
+    <footer>
+      <a href="https://github.com/BYUCS260/photo-bomb-pixilcode">Github Repository</a>
+    </footer>
   </div>
 </template>
 
